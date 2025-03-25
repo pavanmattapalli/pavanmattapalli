@@ -9,17 +9,17 @@
 
 - 📫 How to reach me **rampavankumar7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_E4NSBuf11TpvAA2f0mqbVkGPyGkKDWI/view?usp=sharing](https://drive.google.com/file/d/1vesP_36JUL0MtoHVdnVlScrDJbrNkPCF/view?usp=sharing)
+- 📄 Know about my experiences [Check out my Resume](https://drive.google.com/file/d/1Vb7l3UrBF1jQSfy4JDSPnS3vB0kb6DZ5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pavan_m03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pavan_m03" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pavan-mattapalli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pavan-mattapalli/" height="30" width="40" /></a>
+<a href=https://www.linkedin.com/in/pavan-mattapalli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pavan-mattapalli/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_i_am_pavan__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_i_am_pavan__/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/pavanmattapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/pavanmattapalli" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/pavanmattapalli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pavanmattapalli/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/pavanmattapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/pavanmattapalli" height="30" width="40" /></a>
+<a href="https://leetcode.com/pavanmattapalli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pavanmattapalli/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@pavan2101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@pavan2101" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/rampavankumar7/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/rampavankumar7/profile" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rampavankumar7/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/rampavankumar7/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
